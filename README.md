@@ -6,6 +6,9 @@
   <a href="@">
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge" alt="Vk Badge"/>
   </a>
+  <a href="@">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Vk Badge"/>
+  </a>
 </div>
 
 <h1 align="center">
