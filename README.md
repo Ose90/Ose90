@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=Ose90&style=flat-square&color=blue" alt=""/>
 <div id="badges" align="center">
   <a href="@">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=vk&logoColor=blue" alt="Vk Badge"/>
+    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge" alt="Vk Badge"/>
   </a>
 </div>
 
